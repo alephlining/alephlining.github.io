@@ -11,6 +11,6 @@ I'm a master student at [Mathematical Institute](https://www.universiteitleiden.
 
 You can find my CV here: [Ningyi Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](n.li.6@umail.leidenuniv.nl)
+[Email](mailto:n.li.6@umail.leidenuniv.nl)
 
 
