@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a master student at [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics/), [Leiden University](https://www.universiteitleiden.nl/). I am a member of the ALGANT master program and I will spend My research interest includes Algebraic Geometry and Algebraic Topology.
+I am a member of the ALGANT master program and I'm now a master student at [Mathematical Institute](https://www.universiteitleiden.nl/en/science/mathematics/), [Universiteit Leiden](https://www.universiteitleiden.nl/). I will move to [Universität Regensburg] the next year. My research interest includes Algebraic Geometry and Algebraic Topology.
 
 You can find my CV here: [Ningyi Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
